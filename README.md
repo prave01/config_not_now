@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="banner.jpg" alt="" width="70%" />
+<p align="center" >
+  <img src="banner.jpg" alt="" width="20%" />
 </p>
 
 ```diff
