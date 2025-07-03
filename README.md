@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Welcome Banner" width="70%" />
+  <img src="banner.jpg" alt="" width="70%" />
 </p>
 
 ```diff
