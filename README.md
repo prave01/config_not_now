@@ -7,4 +7,4 @@
 + What's a mob to a king?  
 + What's a king to a god?  
 + What's a god to a non-believer  
-+ Who don't believe in anything?
++ Who don't believe in anything? ⚔️
